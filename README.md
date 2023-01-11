@@ -31,5 +31,6 @@ I'm an indie frontend Devolper building my version of the digital world one step
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurahmanjabiin&show_icons=true&theme=react&hide=stars,issues)
 
 #
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdurahmanjabiin)](https://git.io/streak-stats)
 
 
