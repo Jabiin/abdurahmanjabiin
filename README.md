@@ -1,6 +1,6 @@
 #### :smiley: Digital-craftsman 
 
-I'm an indie frontend Devolper building my version of the digital world one step at a time.
+I'm an indie Fullstack Devolper, 3D artist and designer building my version of the digital world one step at a time.
 
 
    
